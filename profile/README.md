@@ -2,7 +2,7 @@
 
 - [Homepage](https://final-frontier.tanagra.enterprises)
 - [Docs]()
-- [Wiki](.github/wiki)
-- [Roadmap](.github/projects?query=is%3Aopen)
-- [Support](.github/issues)
-- [Contact]()
+- [Wiki](https://github.com/Tanagra-Enterprises/.github/wiki)
+- [Roadmap](https://github.com/Tanagra-Enterprises/.github/projects?query=is%3Aopen)
+- [Support](https://github.com/Tanagra-Enterprises/.github/issues)
+- [Contact](https://github.com/Tanagra-Enterprises/.github/discussions)
