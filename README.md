@@ -1,8 +1,10 @@
-# [Tanagra Enterprises](https://tanagra.enterprises)
+# [Final Frontier](https://final-frontier.tanagra.enterprises)
 
 ## Description
 
-This is a public static html website and GitHub profile for the [Tanagra Enterprises](https://www.tanagra.enterprises) GitHub Organization.
+This is a public static html website template and GitHub profile intended for use within [Tanagra Enterprises](https://www.tanagra.enterprises) Organizations.
+
+This template should be forked as `.github` and customized by the forking Org.
 
 ## Profile
 
